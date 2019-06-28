@@ -16,7 +16,7 @@ var firstNameLength = firstName.length;
 var firstLetterOfFirstName = firstName[0];
 
 //finding last letter of firstname using .length
-var lastLeteOfFirstName = lastName[lastName.length-1];
+var lastLeteOfFirstName = firstName[firstName.length-1];
 
 
 //printing results
